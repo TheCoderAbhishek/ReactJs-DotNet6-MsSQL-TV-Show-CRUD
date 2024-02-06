@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VIFtSBi5XAOWtjRBBvRi5PufUA1V2xKwSxW747C9sF4=",
+  "Source": "dotnet6-crud",
+  "BasePath": "_content/dotnet6-crud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
